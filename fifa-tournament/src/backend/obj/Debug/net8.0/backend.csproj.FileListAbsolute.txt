@@ -1,0 +1,14 @@
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\bin\Debug\net8.0\backend.exe
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\bin\Debug\net8.0\backend.dll
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.dll
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\vionh\workspace\wholelotta\fifa-tournament\src\backend\obj\Debug\net8.0\ref\backend.dll
