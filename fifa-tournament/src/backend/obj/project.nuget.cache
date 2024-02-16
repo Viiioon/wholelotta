@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "FiIVjpKHiko4QUU62xUoLyFifpv802jiMLS7GXJ5YBN/+zBU9H8oxIPfLESPGU8+MqULYwB4z55qVsa6bChTKA==",
+  "dgSpecHash": "VeUXpalK6uLBuTT4GVUGcRClov7p+XRvMFeV4s1C85rcbgX3ncUzEU9i26dTiT+ToxmvSOhET8XGpiyoC4OVZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vionh\\workspace\\wholelotta\\fifa-tournament\\src\\backend\\backend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vionh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "C:\\Users\\vionh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\vionh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\vionh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\vionh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\vionh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\vionh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
